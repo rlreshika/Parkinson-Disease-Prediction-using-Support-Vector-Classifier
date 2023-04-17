@@ -19,8 +19,9 @@ This project uses **9** machine learning algorithms combined with **3** feature 
 3. Particle Swarm Optimization
 4. Genetic Algorithm
 #### **It has been found that Support Vector Classifier is doing best job with f1_score = 0.97, auc score = 0.93 and testing accuracy = 0.95 with training time = 0.22 seconds**
-Flowchart of the workflow is attached in the screenshot section
-
+Flowchart of the workflow is attached here
+![Workflow](https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier/blob/37262822d995a8a24f5a3074cfeda9b34372ba74/flowchart_final.png)
+**fig2: workflow of the process**
 
 
 
@@ -57,13 +58,12 @@ Link for the website:
 [Research Paper](https://www.overleaf.com/read/zfcvdgdqwqys)
 
 
-## 🌟Screenshots
+## 🌟Screenshots of the result
 
 
 ![App Screenshot](https://github.com/sugam21/Parkinson-Disease-Prediction-by-analysing-various-machine-learning-algorithms/blob/766790a981c6266810bc76299435a1c12429a24f/roc_curve.png)
 **fig1: auc score**
-![Workflow](https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier/blob/37262822d995a8a24f5a3074cfeda9b34372ba74/flowchart_final.png)
-**fig2: workflow of the process**
+
 
 
 ## 📘Acknowledgements
