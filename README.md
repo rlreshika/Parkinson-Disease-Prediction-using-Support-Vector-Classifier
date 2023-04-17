@@ -61,7 +61,9 @@ Link for the website:
 
 
 ![App Screenshot](https://github.com/sugam21/Parkinson-Disease-Prediction-by-analysing-various-machine-learning-algorithms/blob/766790a981c6266810bc76299435a1c12429a24f/roc_curve.png)
-fig: auc score
+**fig1: auc score**
+![Workflow](https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier/blob/37262822d995a8a24f5a3074cfeda9b34372ba74/flowchart_final.png)
+**fig2: workflow of the process**
 
 
 ## 📘Acknowledgements
