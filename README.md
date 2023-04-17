@@ -42,12 +42,14 @@ Flowchart of the workflow is attached in the screenshot section
 
 
 ## ⛈️Deployment
-
+This is deployed using streamlit library.
 To deploy this project run
 
 ```bash
   !pip instal -r requirement.txt
 ```
+Link for the website:
+ - [Website](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## 🔖Documentation
