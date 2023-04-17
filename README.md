@@ -1,1 +1,1 @@
-# 🧠Parkinson-Disease-Prediction-by-analysing-various-machine-learning-algorithms
+# 🧠Parkinson-Disease-Prediction-using-Support-Vector-Classifier
