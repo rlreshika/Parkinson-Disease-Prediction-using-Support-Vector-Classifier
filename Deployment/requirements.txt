@@ -1,7 +1,7 @@
 pandas
 numpy
 joblib
-webrowser
+webbrowser
 scikit-learn
 parselmouth
 librosa
@@ -12,4 +12,3 @@ seaborn
 audio-recorder-streamlit
 matplotlib
 plotly
-time
