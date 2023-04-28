@@ -18,7 +18,7 @@ from sklearn.feature_selection import VarianceThreshold
 from sklearn.preprocessing import *
 import plotly.express as px
 import time
-
+import urllib.request
 
 
 st.set_page_config(
@@ -30,7 +30,8 @@ with st.sidebar:
     st.subheader("Links and resources")
     if st.button("GITHUB CODE LINK"):
         url = 'https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier'
-        webbrowser.open_new_tab(url)
+        webUrl = urllib.request.urlopen('https://www.javatpoint.com/python-tutorial')  
+#         webbrowser.open_new_tab(url)
     if st.button("RESEARCH PAPER"):
         url = "https://www.overleaf.com/read/zfcvdgdqwqys"
         webbrowser.open_new_tab(url)
