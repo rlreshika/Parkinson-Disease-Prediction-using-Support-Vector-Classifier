@@ -1,9 +1,6 @@
 pandas
 numpy
-joblib
 scikit-learn
-parselmouth
-librosa
 seaborn
 audio-recorder-streamlit
 matplotlib
