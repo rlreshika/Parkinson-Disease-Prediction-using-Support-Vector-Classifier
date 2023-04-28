@@ -29,10 +29,10 @@ with st.sidebar:
     st.subheader("Links and resources")
     if st.button("GITHUB CODE LINK"):
         url = r'https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier'
-        webbrowser.open_new_tab(url)
+        webbrowser.open(url)
     if st.button("RESEARCH PAPER"):
         url = r"https://www.overleaf.com/read/zfcvdgdqwqys"
-        webbrowser.open_new_tab(url)
+        webbrowser.open(url)
 
 
 
