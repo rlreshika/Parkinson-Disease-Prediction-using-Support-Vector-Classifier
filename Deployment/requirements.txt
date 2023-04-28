@@ -9,3 +9,4 @@ praat-parselmouth
 librosa
 pydub
 pyin
+streamlit-lottie
