@@ -4,7 +4,6 @@ joblib
 scikit-learn
 parselmouth
 librosa
-pyin
 seaborn
 audio-recorder-streamlit
 matplotlib
