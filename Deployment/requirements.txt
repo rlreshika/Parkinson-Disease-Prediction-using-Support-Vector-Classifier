@@ -8,3 +8,4 @@ plotly
 praat-parselmouth
 librosa
 pydub
+pyin
