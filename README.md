@@ -50,7 +50,7 @@ To deploy this project run
   !pip instal -r requirement.txt
 ```
 Link for the website:
- - [Website](https://parkinson-disease-prediction.streamlit.app/)
+ - [Website](https://voice2parkinson.streamlit.app/)
 
 
 ## 🔖Documentation
