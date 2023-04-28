@@ -5,4 +5,4 @@ seaborn
 audio-recorder-streamlit
 matplotlib
 plotly
-
+import parselmouth
