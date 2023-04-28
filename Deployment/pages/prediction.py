@@ -23,20 +23,6 @@ st.set_page_config(
     page_title="Parkinson Disease Prediction", page_icon="🧠", layout="wide"
 )
 
-page_bg_img = f"""
-<style>
-[data-testid="stAppViewContainer"] > .main {{
-background-image: url("https://i.pinimg.com/originals/06/10/99/0610994f6f058e33e73b9d71553f0d5e.png");
-background-size: 180%;
-background-repeat: no-repeat;
-background-attachment: local;
-}}
-[data-testid="stHeader]{{
-background-color: rgba(0,0,0,0)
-}}
-</style>
-"""
-st.markdown(page_bg_img,unsafe_allow_html=True)
 
 with st.sidebar:
     st.title("PARKINSON'S DISEASE PREDICTION🧠🧠🧠")
