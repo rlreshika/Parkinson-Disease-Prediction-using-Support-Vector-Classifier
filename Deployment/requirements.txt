@@ -4,11 +4,10 @@ joblib
 scikit-learn
 parselmouth
 librosa
-pydub
 pyin
 pydub
 seaborn
 audio-recorder-streamlit
 matplotlib
 plotly
-google-ads
+
