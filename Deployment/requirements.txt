@@ -1,0 +1,15 @@
+pandas
+numpy
+joblib
+webrowser
+scikit-learn
+parselmouth
+librosa
+pydub
+pyin
+pydub
+seaborn
+audio-recorder-streamlit
+matplotlib
+plotly
+time
