@@ -36,7 +36,7 @@ with col1:
     Although Parkinson's disease can't be cured, medications might significantly improve your symptoms.</h2>"""
     st.markdown(text,unsafe_allow_html=True)
 with col2:
-    st.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=7, autoplay = True)
+    st.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=7)
 
 st.title(":green[S  Y  M  P  T  O  M  S] 😷 🤒 💉")
 col1,col2,col3,col4 = st.columns(4)
