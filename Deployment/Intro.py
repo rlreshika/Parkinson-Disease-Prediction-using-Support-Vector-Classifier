@@ -17,8 +17,11 @@ def animation(url):
         return url.json()
     else:
         print("Error in URL")
-st.title(":green[I  N  T  R  O]")
 
+st.title(":green[Voice2Parkinson]")
+st.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=0)
+
+st.title(":green[I  N  T  R  O]")
 col1, col2 = st.columns(2)
 with col1:
     url_brain = animation("https://assets4.lottiefiles.com/packages/lf20_n8y71jlq.json")
