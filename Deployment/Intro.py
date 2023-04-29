@@ -19,8 +19,6 @@ def animation(url):
         print("Error in URL")
 
 st.markdown("<h1 style='text-align: center; color: #0096ff; font-size:120px;'>Voice2Parkinson.ai<br></h1>", unsafe_allow_html=True)
-_, vid, _ = st.columns([1, 4, 1])
-vid.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=7)
 
 st.title(":green[I  N  T  R  O]")
 col1, col2 = st.columns(2)
@@ -34,10 +32,11 @@ with col1:
           quality='high',
           key='Brain' 
           )
-with col2:
     text = """<h3>Parkinson's disease is a progressive disorder that affects the nervous system and the parts of the body controlled by the nerves.<br> <br>
     Although Parkinson's disease can't be cured, medications might significantly improve your symptoms.</h2>"""
     st.markdown(text,unsafe_allow_html=True)
+with col2:
+    st.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=7)
 
 st.title(":green[S  Y  M  P  T  O  M  S] 😷 🤒 💉")
 col1,col2,col3,col4 = st.columns(4)
