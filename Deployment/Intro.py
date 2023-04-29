@@ -18,7 +18,7 @@ def animation(url):
     else:
         print("Error in URL")
 
-st.markdown("<h1 style='text-align: center; color: green;'>Voice2Parkinson.ai</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #0096ff; font-size:120px;'>Voice2Parkinson.ai</h1>", unsafe_allow_html=True)
 st.video("https://www.youtube.com/watch?v=8Lrz-BmfaBU", format="video/mp4", start_time=7)
 
 st.title(":green[I  N  T  R  O]")
