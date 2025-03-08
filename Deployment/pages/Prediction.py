@@ -23,20 +23,6 @@ st.set_page_config(
     page_title="Parkinson Disease Prediction", page_icon="🧠", layout="wide"
 )
 
-
-with st.sidebar:
-    st.title("PARKINSON'S DISEASE PREDICTION🧠🧠🧠")
-    st.subheader("Links and resources")
-    if st.button("GITHUB CODE LINK"):
-        url = 'https://github.com/sugam21/Parkinson-Disease-Prediction-using-Support-Vector-Classifier'
-        webbrowser.open_new_tab(url)
-    if st.button("RESEARCH PAPER"):
-        url = "https://www.overleaf.com/read/zfcvdgdqwqys"
-        webbrowser.open_new_tab(url)
-
-
-
-
 def dataImport():
     url = r"https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data"
     df = pd.read_csv(url,encoding='latin1')
